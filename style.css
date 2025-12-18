@@ -1070,16 +1070,6 @@ position: relative;
   }
 }
 
-@supports (-webkit-appearance: none) {
-h2, #sizes, #bodytext, #ab-container {
-     -webkit-font-smoothing: none;
-    text-rendering: auto;
-    font-family: 'Engravers Old English Bold'; 
-        font-weight: bold;
-
-  }
-}
-
 
 
 #corner{
